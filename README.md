@@ -86,30 +86,4 @@ Outputs saved in `outputs/` 📁
 
 ------------------------------------------------------------------------
 
-## 🛠️ Requirements
 
-``` bash
-pip install -r requirements.txt
-```
-
-> ⚠️ For CI/CD: configure AWS CLI + GitHub Secrets (`AWS_ACCESS_KEY_ID`,
-> `AWS_SECRET_ACCESS_KEY`, `EC2_SSH_KEY`).
-
-------------------------------------------------------------------------
-
-## 🌈 Roadmap
-
--   🔵 Blue‑green deployments
--   📊 Monitoring (Prometheus / Grafana)
--   ✂️ Model pruning + quantization
--   🤖 Active learning
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-Built with ❤️, containers 🐳, and transformers 🤖
-```{=html}
-</p>
-```
