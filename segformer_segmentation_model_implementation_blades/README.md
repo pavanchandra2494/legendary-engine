@@ -1,2 +1,2 @@
-# legendary-engine
-Deep Python exploration and advanced projects, totally Hands-On
+# SEGFORMER SEGMENTATION MODEL IMPLEMENTATION AND OPTIMIZATION!!!
+The windmill blades dataset is used to implement segformer model, optimizing and deploying for custom requirements.
