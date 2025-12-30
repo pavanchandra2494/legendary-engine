@@ -1,26 +1,7 @@
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/ML-Production-green" />`{=html}
-`<img src="https://img.shields.io/badge/DevOps-CI%2FCD-blue" />`{=html}
-`<img src="https://img.shields.io/badge/Deep%20Learning-Transformers-orange" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<h1 align="center">
-```
-🚀 End‑to‑End ML & CI/CD Projects
-```{=html}
-</h1>
-```
-```{=html}
-<p align="center">
-```
+🚀 End‑to‑End ML & CI/CD Projects with real-time applications
+
 Fun. Practical. Deployment‑Ready. 🎯
-```{=html}
-</p>
-```
+
 
 ------------------------------------------------------------------------
 
