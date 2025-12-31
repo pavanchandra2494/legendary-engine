@@ -1,6 +1,16 @@
-Building a CI/CD Pipeline with Docker: From Code to Deployment for a client based in Oil and Gas to automate the process of inspection of structural health of pipelines and windmills using Computer Vision to detect anomalies like corrosion and optimizing the model.
+# Building a CI/CD Pipeline with Docker: From Code to Deployment for a client based in Oil and Gas to automate the process of inspection of structural health of pipelines and windmills using Computer Vision to detect anomalies like corrosion and optimizing the model.
 
-Key Takeaways:
+## Project Scenario:
+
+My Role: I am a DEVOPS Engineer at "DeepSkillz Innovations Pvt Ltd" where I was employed to handle springboot monolith
+ic application. The company has been struggling with manual
+ deployment processes, which have caused delays, inconsiste
+ncies, and operational inefficiencies. My role was to addre
+ss these challenges by designing and implementing a robust
+DevOps pipeline that streamlines the deployment process and
+ ensures scalability.
+
+## Key Takeaways:
 
 Task 1: Containerizing Spring Boot application with Docker and Docker Compose
 ● Docker simplifies the application deployment by packaging code and dependencies into a container image.
@@ -35,5 +45,4 @@ Task 6: Automate the deployment of the application to EC2 with CD pipeline
 
 Additional Resources:
 ● All necessary ZIP files and the script for installing the EC2 requirements are attached in the Key Takeaways/Resources section of the user interface.
-
 
